@@ -1,0 +1,67 @@
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+header{
+  margin-bottom: 150px;
+}
+
+header p {
+  line-height: 1.5;
+}
+
+section {
+  margin-top: 100px;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.section__four p {
+  margin: 0 0 3px 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.note {
+  font-weight: bold;
+}
+
+.chapter-four {
+  font-weight: normal;
+}
